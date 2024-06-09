@@ -5,7 +5,7 @@ A játékpálya mezőin fal elemek, dobozok, szörnyek és maguk a játékosok h
 A játékosok bombákat lehelyezve felrobbanthatják a dobozokat, szörnyeket és a játékosokat (akár saját magukat is).  
 Egy játékos veszít (és ezáltal ellenfele győz), ha felrobban, vagy ha egy szörny elkapja.
 
-## 💣 [Letöltés](https://mega.nz/file/CPAlVJ4B#hs3EvEHrcJOz83vqxGjYfosykAuVNEWK8ovC8Aivwc0) 💣
+## 💣 [Játék letöltése](https://mega.nz/file/CPAlVJ4B#hs3EvEHrcJOz83vqxGjYfosykAuVNEWK8ovC8Aivwc0) 💣
 
 ## 💣 Kiválasztott feladatok
 * Alapfeladat **(2)**
