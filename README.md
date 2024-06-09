@@ -98,6 +98,47 @@ Ha a player neki megy egy szörnynek vagy fordítva, a player meghal, hacsak nem
 ![round-over-panel-draw](src/main/resources/screenshots/round-over-panel-draw.png)
 ![winner-panel](src/main/resources/screenshots/winner-panel.png)
 
+## 💣 Dokumentáció: UML diagramok
+
+### Használati eset diagram:
+![usecase](uml/bombasztik-usecase.png)
+
+### Eredeti osztálydiagram:
+![official](uml/official_classdiagram.png)
+
+### Egész osztálydiagram egyben:
+![whole](uml/classdiagram.png)
+
+### Package-ek:
+![package](uml/package.png)
+
+### Osztályok egyszerűsítve:
+![classSimple](uml/java.png)
+
+### Dependenciák:
+![dependency](uml/dependencies.png)
+
+### Model package:
+![model](uml/model.png)
+
+### View package:
+![model](uml/view.png)
+
+### Controller package:
+![model](uml/controller.png)
+
+### Entity package:
+![model](uml/entity.png)
+
+### Item package:
+![model](uml/item.png)
+
+### Object package:
+![model](uml/object.png)
+
+### Sound package
+![model](uml/sound.png)
+
 ## 💣 A csapat tagjai
 * **Jeges József**
 * **Szegeczki Hajnalka**
