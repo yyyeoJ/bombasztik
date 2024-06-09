@@ -4,6 +4,9 @@ A játékot 2 vagy 3 játékos játsza, akiknek 1-1 figurát irányítva céljuk
 A játékpálya mezőin fal elemek, dobozok, szörnyek és maguk a játékosok helyezkednek el.  
 A játékosok bombákat lehelyezve felrobbanthatják a dobozokat, szörnyeket és a játékosokat (akár saját magukat is).  
 Egy játékos veszít (és ezáltal ellenfele győz), ha felrobban, vagy ha egy szörny elkapja.
+
+## 💣 [Letöltés](https://mega.nz/file/CPAlVJ4B#hs3EvEHrcJOz83vqxGjYfosykAuVNEWK8ovC8Aivwc0) 💣
+
 ## 💣 Kiválasztott feladatok
 * Alapfeladat **(2)**
 * Haladó bónuszok **(1)**
