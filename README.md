@@ -5,7 +5,8 @@ A játékpálya mezőin fal elemek, dobozok, szörnyek és maguk a játékosok h
 A játékosok bombákat lehelyezve felrobbanthatják a dobozokat, szörnyeket és a játékosokat (akár saját magukat is).  
 Egy játékos veszít (és ezáltal ellenfele győz), ha felrobban, vagy ha egy szörny elkapja.
 
-## 💣 [Játék letöltése](https://mega.nz/file/CPAlVJ4B#hs3EvEHrcJOz83vqxGjYfosykAuVNEWK8ovC8Aivwc0) 💣
+### 💣 [Játék letöltése](https://mega.nz/file/CPAlVJ4B#hs3EvEHrcJOz83vqxGjYfosykAuVNEWK8ovC8Aivwc0) 💣
+### 💣 [Bemutató videó](https://www.youtube.com/watch?v=anXkjze8GMQ) 💣
 
 ## 💣 Kiválasztott feladatok
 * Alapfeladat **(2)**
@@ -88,7 +89,6 @@ Ha a player neki megy egy szörnynek vagy fordítva, a player meghal, hacsak nem
 
 ## 💣 Hogy néz ki a játék?
 
-####  Bemutató videó: https://www.youtube.com/watch?v=anXkjze8GMQ
 ![main-panel](src/main/resources/screenshots/main-panel.png)
 ![start-game-normal](src/main/resources/screenshots/start-game-normal.png)
 ![start-game-ice](src/main/resources/screenshots/start-game-ice.png)
